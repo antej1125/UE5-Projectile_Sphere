@@ -1,3 +1,2 @@
-2024/02/28-15:16:07.842 1f86c Reusing MANIFEST D:/UE/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/02/28-15:16:07.844 1f86c Recovering log #3
-2024/02/28-15:16:07.845 1f86c Reusing old log D:/UE/MyProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/02/28-23:25:13.155 22820 Creating DB D:/Gitlab Project/UE5-Projectile_Sphere/MyProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/02/28-23:25:13.238 22820 Reusing MANIFEST D:/Gitlab Project/UE5-Projectile_Sphere/MyProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
